@@ -1,2 +1,2 @@
 # gevpro-week2
-Gevorderd Programmeren
+Opdrachten voor Gevorderd Programmeren
